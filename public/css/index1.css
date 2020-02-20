@@ -1,0 +1,34 @@
+.space-text {
+    margin: 10px 0;
+}
+
+.footer-index {
+    background-image:linear-gradient(180deg,#4974a0,#000000);
+    color: #ffffff;
+}
+
+.table td {
+    border: none !important;
+}
+
+.mobi-app {
+    width: 100px;
+    height: 40px;
+    margin: 10px 0;
+}
+
+    .mobi-app:hover {
+        cursor: pointer;
+        opacity: 0.4;
+    }
+
+
+.fab {
+    margin: 10px 10px;
+    font-size: 35px;
+    color: #ffffff;
+}
+.contact-bg{
+    background-image: url('/ProjectII/public/images/white-background.jpg');
+    
+}

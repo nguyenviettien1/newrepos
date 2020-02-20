@@ -1,0 +1,52 @@
+﻿.space-text {
+    margin: 10px 0;
+}
+
+.footer-index {
+    background-image:linear-gradient(180deg,#4974a0,#000000);
+    color: #ffffff;
+}
+
+.table td {
+    border: none !important;
+}
+
+.mobi-app {
+    width: 100px;
+    height: 45px;
+    margin: 10px 0;
+}
+
+    .mobi-app:hover {
+        cursor: pointer;
+        opacity: 0.4;
+    }
+
+.ch-play {
+    background-image: url('admin_asset/upload/images/ch-play.jpg');
+    background-size: 109%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.app-store {
+    background-image: url('admin_asset/upload/images/app-store1.jpg');
+    background-size: 109%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.qr-code {
+    margin: 10px 20px;
+    width: 100px;
+    height: 100px;
+    background-image: url('admin_asset/upload/images/QR-code.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+.fab {
+    margin: 10px 10px;
+    font-size: 35px;
+}
